@@ -49,7 +49,7 @@ mvn clean package
 Запуск приложений:
 
 
-# Запуск consumer (первым!)
+# Запуск consumer
 
 java -jar target/weather-consumer.jar
 
